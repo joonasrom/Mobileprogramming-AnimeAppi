@@ -52,4 +52,4 @@ On the main screen, you will see the names of the five most popular animes on th
 Pressing the chat button will take you to a login page where you can choose your own name. Chat also has a logout button.
 
 
- <img src="" alt="" width="80" height="80"/>  <img src="" alt="" width="80" height="80"/>
+ <img src="./assets/MainScreen.JPG" width="300" alt="Screenshot of main screen"/> <img src="./assets/InfoPage.JPG" width="300" alt="Screenshot of info screen"/> <img src="./assets/ChatScreen.JPG" width="300" alt="Screenshot of chat screen"/>
