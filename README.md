@@ -12,7 +12,7 @@ Android app to search animes and to chat with other users through chat feature. 
 * [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
 * [React Navigation](https://reactnavigation.org/docs/getting-started)
 * [Firebase Cloud Firestore](https://firebase.google.com/docs/firestore)
-
+* [API Jikan](https://jikan.moe/)
 
 # Getting Started
 
